@@ -1,0 +1,15 @@
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Infra\bin\Debug\net6.0\Microwave.Infra.deps.json
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Infra\bin\Debug\net6.0\Microwave.Infra.dll
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Infra\bin\Debug\net6.0\Microwave.Infra.pdb
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Infra\bin\Debug\net6.0\Microwave.Domain.dll
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Infra\bin\Debug\net6.0\Microwave.Domain.pdb
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Infra\obj\Debug\net6.0\Microwave.Infra.csproj.AssemblyReference.cache
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Infra\obj\Debug\net6.0\Microwave.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Infra\obj\Debug\net6.0\Microwave.Infra.AssemblyInfoInputs.cache
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Infra\obj\Debug\net6.0\Microwave.Infra.AssemblyInfo.cs
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Infra\obj\Debug\net6.0\Microwave.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Infra\obj\Debug\net6.0\Microwave.Infra.csproj.CopyComplete
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Infra\obj\Debug\net6.0\Microwave.Infra.dll
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Infra\obj\Debug\net6.0\refint\Microwave.Infra.dll
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Infra\obj\Debug\net6.0\Microwave.Infra.pdb
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Infra\obj\Debug\net6.0\ref\Microwave.Infra.dll

@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rossetti\\Desktop\\Projetos\\Microwave\\server\\Microwave\\Microwave.Infra\\Microwave.Infra.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rossetti\\Desktop\\Projetos\\Microwave\\server\\Microwave\\Microwave.Domain\\Microwave.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rossetti\\Desktop\\Projetos\\Microwave\\server\\Microwave\\Microwave.Domain\\Microwave.Domain.csproj",
+        "projectName": "Microwave.Domain",
+        "projectPath": "C:\\Users\\Rossetti\\Desktop\\Projetos\\Microwave\\server\\Microwave\\Microwave.Domain\\Microwave.Domain.csproj",
+        "packagesPath": "C:\\Users\\Rossetti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rossetti\\Desktop\\Projetos\\Microwave\\server\\Microwave\\Microwave.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rossetti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rossetti\\Desktop\\Projetos\\Microwave\\server\\Microwave\\Microwave.Infra\\Microwave.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rossetti\\Desktop\\Projetos\\Microwave\\server\\Microwave\\Microwave.Infra\\Microwave.Infra.csproj",
+        "projectName": "Microwave.Infra",
+        "projectPath": "C:\\Users\\Rossetti\\Desktop\\Projetos\\Microwave\\server\\Microwave\\Microwave.Infra\\Microwave.Infra.csproj",
+        "packagesPath": "C:\\Users\\Rossetti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rossetti\\Desktop\\Projetos\\Microwave\\server\\Microwave\\Microwave.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rossetti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Rossetti\\Desktop\\Projetos\\Microwave\\server\\Microwave\\Microwave.Domain\\Microwave.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rossetti\\Desktop\\Projetos\\Microwave\\server\\Microwave\\Microwave.Domain\\Microwave.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0-preview.1.23111.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0-preview.1.23111.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

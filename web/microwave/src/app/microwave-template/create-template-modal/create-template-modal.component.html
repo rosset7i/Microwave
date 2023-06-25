@@ -1,0 +1,84 @@
+<div>
+  <h1 mat-dialog-title>Microwave</h1>
+  <div mat-dialog-content>
+    <form [formGroup]="form">
+      <div class="input-group my-3">
+      <span class="input-group-text">
+        <i class="bi-info-circle-fill"></i>
+      </span>
+        <input class="form-control"
+               formControlName="name"
+               placeholder="Template Name"
+               type="text">
+      </div>
+
+      <div class="input-group mb-3">
+      <span class="input-group-text">
+        <i class="bi-egg-fried"></i>
+      </span>
+        <input class="form-control"
+               formControlName="food"
+               placeholder="Food Name"
+               type="text">
+      </div>
+
+      <div class="input-group mb-3">
+        <span class="input-group-text">
+          <i class="bi-bar-chart-fill"></i>
+        </span>
+        <input class="form-control"
+               formControlName="potency"
+               placeholder="Potency"
+               min="1"
+               max="10"
+               type="number">
+      </div>
+
+      <div class="input-group mb-3">
+      <span class="input-group-text">
+        <i class="bi-at"></i>
+      </span>
+        <input
+          class="form-control"
+          maxlength="1"
+          formControlName="warmingChar"
+          placeholder="Warming Char"
+          type="text">
+      </div>
+
+      <div class="input-group mb-3">
+      <span class="input-group-text">
+        <i class="bi-clock-fill"></i>
+      </span>
+        <input
+          class="form-control"
+          formControlName="time"
+          placeholder="Time"
+          type="number">
+      </div>
+
+      <div class="input-group mb-3">
+      <span class="input-group-text">
+        <i class="bi-textarea"></i>
+      </span>
+        <textarea
+          class="form-control"
+          formControlName="instructions"
+          placeholder="Instructions"
+          type="text"></textarea>
+      </div>
+    </form>
+  </div>
+
+  <div mat-dialog-actions>
+    <button
+      (click)="saveMicrowave()"
+      [disabled]="!canSave"
+      class="btn btn-dark m-1">
+      Salvar
+    </button>
+    <button class="btn btn-danger m-1" mat-dialog-close>
+      Cancelar
+    </button>
+  </div>
+</div>

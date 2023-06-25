@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lY8q72yN+5I2uZnqdMs1Q5IDE2vaqWe7BNXm8xiuV7DV7s6ECRDomzKKxfnKAqd+xWvoyDcyieoyJnpOrQJJhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rossetti\\Desktop\\Projetos\\Microwave\\server\\Microwave\\Microwave.Domain\\Microwave.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rossetti\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

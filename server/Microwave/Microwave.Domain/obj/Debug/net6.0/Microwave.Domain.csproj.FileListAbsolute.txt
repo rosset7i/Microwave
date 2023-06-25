@@ -1,0 +1,12 @@
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Domain\bin\Debug\net6.0\Microwave.Domain.deps.json
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Domain\bin\Debug\net6.0\Microwave.Domain.dll
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Domain\bin\Debug\net6.0\Microwave.Domain.pdb
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Domain\obj\Debug\net6.0\Microwave.Domain.csproj.AssemblyReference.cache
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Domain\obj\Debug\net6.0\Microwave.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Domain\obj\Debug\net6.0\Microwave.Domain.AssemblyInfoInputs.cache
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Domain\obj\Debug\net6.0\Microwave.Domain.AssemblyInfo.cs
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Domain\obj\Debug\net6.0\Microwave.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Domain\obj\Debug\net6.0\Microwave.Domain.dll
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Domain\obj\Debug\net6.0\refint\Microwave.Domain.dll
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Domain\obj\Debug\net6.0\Microwave.Domain.pdb
+C:\Users\Rossetti\Desktop\Projetos\Microwave\server\Microwave\Microwave.Domain\obj\Debug\net6.0\ref\Microwave.Domain.dll

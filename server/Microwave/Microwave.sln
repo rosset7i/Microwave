@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microwave.Application", "Microwave.Application\Microwave.Application.csproj", "{4716B18D-D081-47C3-B56A-2ED0396425CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microwave.Domain", "Microwave.Domain\Microwave.Domain.csproj", "{2C75F11E-9C4D-4325-BD4D-BEB25CAB8E3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microwave.Infra", "Microwave.Infra\Microwave.Infra.csproj", "{1B66CF3E-389A-443E-8C83-050E2BD86677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microwave.UnitTest", "Microwave.UnitTest\Microwave.UnitTest.csproj", "{56319841-DB28-4FE3-AF62-0B3C338206F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4716B18D-D081-47C3-B56A-2ED0396425CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4716B18D-D081-47C3-B56A-2ED0396425CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4716B18D-D081-47C3-B56A-2ED0396425CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4716B18D-D081-47C3-B56A-2ED0396425CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C75F11E-9C4D-4325-BD4D-BEB25CAB8E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C75F11E-9C4D-4325-BD4D-BEB25CAB8E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C75F11E-9C4D-4325-BD4D-BEB25CAB8E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C75F11E-9C4D-4325-BD4D-BEB25CAB8E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B66CF3E-389A-443E-8C83-050E2BD86677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B66CF3E-389A-443E-8C83-050E2BD86677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B66CF3E-389A-443E-8C83-050E2BD86677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B66CF3E-389A-443E-8C83-050E2BD86677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56319841-DB28-4FE3-AF62-0B3C338206F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56319841-DB28-4FE3-AF62-0B3C338206F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56319841-DB28-4FE3-AF62-0B3C338206F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56319841-DB28-4FE3-AF62-0B3C338206F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

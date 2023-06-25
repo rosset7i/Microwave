@@ -1,0 +1,37 @@
+<div class="row">
+  <div class="col-1">
+    <button (click)="openMicrowaveModal()" class="btn btn-success" type="button">
+      <i class="bi bi-plus"></i>
+    </button>
+  </div>
+</div>
+
+<table class="table table-striped">
+  <thead>
+  <tr>
+    <th scope="col">Name</th>
+    <th scope="col">Food</th>
+    <th scope="col">Time</th>
+    <th scope="col">Potency</th>
+    <th scope="col">Instructions</th>
+    <th scope="col">Actions</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let microwave of microwaves"  [ngClass]="{ 'italic': !microwave.isStatic}">
+    <td>{{microwave.name}}</td>
+    <td>{{microwave.food}}</td>
+    <td>{{microwave.time}}</td>
+    <td>{{microwave.potency}}</td>
+    <td>{{microwave.instructions}}</td>
+    <td >
+      <button *ngIf="!microwave.isStatic" (click)="openMicrowaveModal(microwave)" class="btn btn-primary m-1" type="button">
+        <i class="bi bi-pencil"></i>
+      </button>
+      <button *ngIf="!microwave.isStatic" (click)="deleteMicrowave(microwave.id)" class="btn btn-danger m-1" type="button">
+        <i class="bi bi-trash3"></i>
+      </button>
+    </td>
+  </tr>
+  </tbody>
+</table>
